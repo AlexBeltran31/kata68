@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": 2,
+        "name": "Alex",
+        "surname": "Beltran",
+        "phone": "653027727",
+        "email": "example@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Camila",
+        "surname": "Perez",
+        "phone": "653892034",
+        "email": "example2@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Vivi",
+        "surname": "Nascu",
+        "phone": "653846372",
+        "email": "example3@example.com"
+    }
+]

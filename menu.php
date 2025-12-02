@@ -70,7 +70,7 @@ class Menu {
             echo "ID: $contact->id |";
             echo "$contact->name $contact->surname | ";
             echo "Phone number: $contact->phone |";
-            echo "Email: $contact->email |";
+            echo "Email: $contact->email |\n";
         }
     }
 
